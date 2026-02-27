@@ -55,7 +55,7 @@ A **comprehensive valet service system** for QBCore-based FiveM servers that all
 | ox_lib | Latest | ✅ Yes |
 | oxmysql | Latest | ✅ Yes |
 
-**Note:** This script relies on QBCore's vehicle system (player_vehicles table) and does not require additional dependencies like qb-inventory or qb-target.
+**Note:** This script relies on QBCore's vehicle system (player_vehicles table) and does not require additional dependencies.
 
 ---
 
@@ -253,3 +253,4 @@ For support, bug reports, or feature requests:
 
 
 **Enjoy seamless vehicle delivery on your FiveM server! 🚗**
+
