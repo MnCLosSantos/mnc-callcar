@@ -34,7 +34,7 @@ local function GetVehicleIcon(model)
         [17] = { icon = 'bus',                  color = '#F4D03F' }, -- Service    – yellow
         [18] = { icon = 'truck-medical',        color = '#E74C3C' }, -- Emergency  – red
         [19] = { icon = 'shield-halved',        color = '#2D6A4F' }, -- Military   – dark green
-        [20] = { icon = 'truck',                color = '#495057' }, -- Commercial – dark grey
+        [20] = { icon = 'truck',                color = '#c79e08' }, -- Commercial – dark grey
         [21] = { icon = 'train',                color = '#343A40' }, -- Train      – near black
     }
     return map[class] or { icon = 'car', color = '#FFFFFF' }
